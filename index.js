@@ -21,5 +21,13 @@ const nextColor = (e)=>{
     c++
   }
 }
+const text = document.getElementById('text')
+const words = ["El Gourmet", "El gourmet"]
+text.addEventListener('click', ()=>{
+  
+  titles.forEach(title=>{
+    title.textContent= words[parseInt(Math.random()*2+0)]
+  })
+})
 next.addEventListener('click', nextColor)
 button.addEventListener('click', changeColor)
