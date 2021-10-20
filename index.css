@@ -1,0 +1,123 @@
+.container-title{
+  margin: 0 auto;
+  text-align: center;
+}
+.container-title button{
+  position: fixed;
+  border: none;
+  height: 40px;
+  width: 80px;
+  background-color: transparent;
+  border: 1px solid rgb(4, 187, 4);
+  color: rgb(10, 163, 10);
+  cursor: pointer;
+  left: 0%;
+}
+.container-title button:nth-child(2){
+  top: 100px;
+}
+.container-title button:hover{
+  background-color: rgb(202, 253, 196);
+}
+.container-title h1{
+  font-size: 3rem;
+}
+/* 
+font-family: 'Aldrich', sans-serif;
+font-family: 'Basic', sans-serif;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Bigshot One', cursive;
+font-family: 'Birthstone Bounce', cursive;
+font-family: 'Bowlby One SC', cursive;
+font-family: 'Bungee', cursive;
+font-family: 'Carattere', cursive;
+font-family: 'Changa One', cursive;
+font-family: 'Encode Sans Condensed', sans-serif;
+font-family: 'Ephesis', cursive;
+font-family: 'Fugaz One', cursive;
+font-family: 'Homenaje', sans-serif;
+font-family: 'Koulen', cursive;
+font-family: 'Marcellus SC', serif;
+font-family: 'Marck Script', cursive;
+font-family: 'Mogra', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Oleo Script', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Racing Sans One', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Rubik Mono One', sans-serif;
+font-family: 'Sacramento', cursive;
+font-family: 'Unlock', cursive;
+*/
+.container-title h1:nth-child(3){
+ font-family: 'Bebas Neue', cursive;  
+}
+.container-title h1:nth-child(4){
+  font-family: 'Birthstone Bounce', cursive;  
+ }
+ .container-title h1:nth-child(5){
+  font-family: 'Carattere', cursive;
+ }
+ .container-title h1:nth-child(6){
+  font-family: 'Ephesis', cursive;
+ }
+ .container-title h1:nth-child(7){
+  font-family: 'Fugaz One', cursive;
+ }
+ .container-title h1:nth-child(8){
+  font-family: 'Marck Script', cursive;
+ }
+ .container-title h1:nth-child(9){
+  font-family: 'Bigshot One', cursive;
+ }
+ .container-title h1:nth-child(10){
+  font-family: 'Open Sans', sans-serif;
+ }
+ .container-title h1:nth-child(11){
+  font-family: 'Changa One', cursive;
+ }
+ .container-title h1:nth-child(12){
+  font-family: 'Sacramento', cursive;
+ }
+ .container-title h1:nth-child(13){
+  font-family: 'Aldrich', sans-serif
+ }
+ .container-title h1:nth-child(14){
+  font-family: 'Basic', sans-serif;
+ }
+ .container-title h1:nth-child(15){
+  font-family: 'Bowlby One SC', cursive;
+ }
+ .container-title h1:nth-child(16){
+  font-family: 'Bungee', cursive;
+ }
+ .container-title h1:nth-child(17){
+  font-family: 'Oleo Script', cursive;
+ }
+ .container-title h1:nth-child(18){
+  font-family: 'Rubik Mono One', sans-serif;
+ }
+ .container-title h1:nth-child(19){
+  font-family: 'Encode Sans Condensed', sans-serif;
+ }
+ .container-title h1:nth-child(20){
+  font-family: 'Homenaje', sans-serif;
+ }
+ .container-title h1:nth-child(21){
+  font-family: 'Koulen', cursive;
+ }
+ .container-title h1:nth-child(22){
+  font-family: 'Marcellus SC', serif;
+ }
+ .container-title h1:nth-child(23){
+  font-family: 'Mogra', cursive;
+ }
+ .container-title h1:nth-child(24){
+  font-family: 'Montserrat', sans-serif;
+ }
+ .container-title h1:nth-child(25){
+  font-family: 'Racing Sans One', cursive;
+ }
+ .container-title h1:nth-child(26){
+  font-family: 'Unlock', cursive;
+ }
